@@ -1,4 +1,7 @@
 Links
 
 https://react.dev/
+
 https://javascript.info/js
+
+https://bewebdev.tech/technologies/react/#principles-for-react
